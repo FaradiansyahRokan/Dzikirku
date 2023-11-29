@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462392999242",
+    "firebase_url": "https://dzikirku-431c0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dzikirku-431c0",
+    "storage_bucket": "dzikirku-431c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462392999242:android:1dbf5584089072968415b3",
+        "android_client_info": {
+          "package_name": "com.rokan.dzikirku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8hqN3AAX4dljNS8i_cExGvPEkYoiq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
